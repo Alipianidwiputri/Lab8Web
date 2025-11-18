@@ -79,15 +79,7 @@ Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
 
 
 
-# Untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab8_php_database/ 
-
-
-
-
-....................
-
-
-
+**Untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab8_php_database/**
 
 
 # Membuat file koneksi database 
